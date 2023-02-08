@@ -72,7 +72,7 @@ export const GmartScreen = () => {
                     lineHeight="120%"
                   >
                     <GmartLogo size={{ _: '2.6rem', md: '3.6rem' }} />
-                    <div>Gmart</div>
+                    <div>VoltSmart</div>
                   </Flex>
                   <Box
                     fontSize={{ _: '2.8rem', md: '4.4rem' }}
@@ -120,7 +120,7 @@ export const GmartScreen = () => {
               >
                 <Box ml={{ _: '1.5rem', md: '8rem' }}>
                   <Box fontSize={{ _: '2.8rem', md: '6.2rem' }} fontWeight={600}>
-                    Gmart on
+                    VoltSmart on
                     <br />
                     your mobile
                   </Box>

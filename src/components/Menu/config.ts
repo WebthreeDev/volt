@@ -12,7 +12,7 @@ const menuLinks: MenuEntry[] = [
     blink: true,
     items: [
       {
-        label: 'Evervoid 2.0',
+        label: 'Voltoid 2.0',
         href: process.env.REACT_APP_ASTEROID_MINING_URL,
         external: true,
       },
@@ -32,7 +32,7 @@ const menuLinks: MenuEntry[] = [
         external: true,
       },
       {
-        label: 'Evervoid pitch deck',
+        label: 'Voltoid pitch deck',
         href: 'https://gateway.pinata.cloud/ipfs/QmTDH4vM7JQFpDdMGaRMTCvRwLunzL59EQpsp1DDQU5g4n',
         external: true,
       },

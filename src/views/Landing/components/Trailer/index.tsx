@@ -22,7 +22,7 @@ export const Trailer = (props: React.ComponentProps<typeof Button>) => {
             width="100%"
             height="100%"
             src="https://www.youtube.com/embed/M9n4PnR0k8k?autoplay=1"
-            title="Evervoid Trailer"
+            title="Voltoid Trailer"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

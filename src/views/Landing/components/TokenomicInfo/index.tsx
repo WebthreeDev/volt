@@ -192,7 +192,7 @@ const TokenomicInfo: React.FC<Props> = ({ token = TokenomicsTokenType.GRVS, netw
         </StyledFlex>
       </Header>
       <DefaultText fontWeight={600} fontSize={{ _: '1.6rem', md: '2.2rem' }} textAlign="center" mt="3.5rem" mb="1.5rem">
-        Token utility value in Evervoid
+        Token utility value in Voltoid
       </DefaultText>
       <Box position="relative" width="100%">
         <ShadowLeft ref={shadowLeftRef} className="md:display-none" />

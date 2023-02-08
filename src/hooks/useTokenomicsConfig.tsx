@@ -155,7 +155,7 @@ const useTokenomicsConfig = (chain = 'bsc') => {
           <DefaultTokenomicItem
             icon={CrownIcon}
             text="Purchases of premium assets
-in Evervoid 2.0"
+in Voltoid 2.0"
           />,
           <DefaultTokenomicItem
             icon={ShoppingBasketIcon}
@@ -175,7 +175,7 @@ universes (blockchains)"
           <DefaultTokenomicItem
             icon={MountainsIcon}
             text="Selling lands
-in Evervoid 2.0"
+in Voltoid 2.0"
           />,
           <DefaultTokenomicItem
             icon={LockIcon}
@@ -197,7 +197,7 @@ drone mission"
           <DefaultTokenomicItem
             icon={TowersIcon}
             text="Construction of building
-and improvements in Evervoid 2.0"
+and improvements in Voltoid 2.0"
           />,
           <DefaultTokenomicItem
             icon={TargetIcon}

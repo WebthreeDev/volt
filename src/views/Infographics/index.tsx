@@ -69,7 +69,7 @@ const Infographics = () => {
             <StyledLink href={redirectUrl} mr="16px">
               <ArrowBackIcon width={24} height={24} /> Back
             </StyledLink>
-            <PlayText fontSize="64px">Gravis Finance Infographics</PlayText>
+            <PlayText fontSize="64px">Volt AI Infographics</PlayText>
             <Box ml="16px" />
           </Flex>
         )}
@@ -87,7 +87,7 @@ const Infographics = () => {
           <Roadmap />
         </Container>
         <PlayText fontSize="48px" mt="64px" mb="16px">
-          Evervoid
+          Voltoid
         </PlayText>
         <EvervoidGameAssetCycle />
         <PlayText fontSize="36px" mb="16px" mt="32px">

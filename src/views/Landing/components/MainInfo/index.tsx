@@ -83,13 +83,13 @@ const MainInfo = () => {
       >
         <Box alignItems="center" display={{ _: 'none', md: 'flex' }}>
           <GravisBoldLogo />
-          <MainText ml="0.8rem">Gravis Finance</MainText>
+          <MainText ml="0.8rem">Volt AI</MainText>
         </Box>
         <Box fontSize={{ _: '4rem', md: '5.6rem' }} fontWeight="bold" mt="2.5rem" textAlign="center">
           Gamified DeFi Ecosystem
         </Box>
         <Description mt="1.3rem" maxWidth="59.1rem">
-          Gravis Finance is an ecosystem that unites DeFi platform, NFT marketplace for in-game assets, and Evervoid
+          Volt AI is an ecosystem that unites DeFi platform, NFT marketplace for in-game assets, and VOLTOID
           game. We provide all the necessary instruments for managing your crypto assets on any chain.
         </Description>
         <Box mt="3.2rem">
@@ -137,7 +137,7 @@ const MainInfo = () => {
               mr={{ _: '4rem', md: 0 }}
               style={{ letterSpacing: '0' }}
             >
-              Interview with CEO of Gravis Finance
+              Interview with CEO of Volt AI
             </Text>
           </Flex>
           <Button

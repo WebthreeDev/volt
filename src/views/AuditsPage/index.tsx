@@ -60,7 +60,7 @@ const AuditsPage: React.FC = () => {
         <StyledAppContainer>
           <Body>
             <Text mb={48} fontSize="38px" style={{ textAlign: 'center' }} bold>
-              Gravis Finance completed smart contracts audits:
+              Volt AI Finance completed smart contracts audits:
             </Text>
             <Container>
               <StyledFlex>

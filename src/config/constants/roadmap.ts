@@ -20,7 +20,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q2 2021',
     projects: [
       {
-        title: 'Gswap Project Start',
+        title: 'VoltSwap Project Start',
         color: '#5AC2E3',
         items: [
           {
@@ -47,7 +47,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q3 2021',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -61,7 +61,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -83,11 +83,11 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
-            text: 'Gmart release version 1',
+            text: 'VoltSmart release version 1',
             done: true,
           },
         ],
@@ -98,7 +98,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q4 2021',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -118,11 +118,11 @@ export const roadmapConfig: RoadmapType[] = [
             done: true,
           },
           {
-            text: 'Evervoid players stats release',
+            text: 'Voltoid players stats release',
             done: true,
           },
           {
-            text: 'Evervoid home page release',
+            text: 'Voltoid home page release',
             done: true,
           },
           {
@@ -136,7 +136,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -157,7 +157,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
@@ -169,7 +169,7 @@ export const roadmapConfig: RoadmapType[] = [
             done: true,
           },
           {
-            text: 'Gmart release version 2',
+            text: 'VoltSmart release version 2',
             done: true,
           },
           {
@@ -189,7 +189,7 @@ export const roadmapConfig: RoadmapType[] = [
     start: true,
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -197,7 +197,7 @@ export const roadmapConfig: RoadmapType[] = [
             done: true,
           },
           {
-            text: 'New Evervoid trailer',
+            text: 'New Voltoid trailer',
             done: true,
           },
           {
@@ -225,7 +225,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -241,11 +241,11 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
-            text: 'Gmart for Type01 NFT collection listing',
+            text: 'VoltSmart for Type01 NFT collection listing',
             done: true,
           },
           {
@@ -265,7 +265,7 @@ export const roadmapConfig: RoadmapType[] = [
             done: true,
           },
           {
-            text: 'Gmart release version 3',
+            text: 'VoltSmart release version 3',
           },
           {
             text: 'Big prize giveaway for staking, farming and migrating',
@@ -288,7 +288,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q2 2022',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -315,7 +315,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -327,7 +327,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
@@ -356,7 +356,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q3 2022',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -380,7 +380,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -392,7 +392,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
@@ -408,7 +408,7 @@ export const roadmapConfig: RoadmapType[] = [
             text: 'NFT bridge for all supported networks and collections',
           },
           {
-            text: 'Mobile Gmart app development (Q3 / Q4)',
+            text: 'Mobile VoltSmart app development (Q3 / Q4)',
           },
         ],
       },
@@ -418,7 +418,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q4 2022',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -439,7 +439,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gswap',
+        title: 'VoltSwap',
         color: '#5AC2E3',
         items: [
           {
@@ -448,7 +448,7 @@ export const roadmapConfig: RoadmapType[] = [
         ],
       },
       {
-        title: 'Gmart',
+        title: 'VoltSmart',
         color: '#E0E69C',
         items: [
           {
@@ -462,7 +462,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q1 2023',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {
@@ -482,7 +482,7 @@ export const roadmapConfig: RoadmapType[] = [
     period: 'Q2 2023',
     projects: [
       {
-        title: 'Evervoid',
+        title: 'Voltoid',
         color: '#70DD75',
         items: [
           {

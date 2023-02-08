@@ -150,7 +150,7 @@ const Footer: React.FC = () => {
           <FooterNetworks display={{ _: 'none', md: 'flex' }} />
           <Flex>
             <DefaultText color="rgba(255,255,255,0.7)" fontSize="1.4rem" fontWeight={500}>
-              All rights reserved. © 2022 Gravis Finance
+              All rights reserved. © 2022 Volt AI
             </DefaultText>
           </Flex>
         </Flex>

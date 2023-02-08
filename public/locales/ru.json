@@ -283,7 +283,7 @@
   "changeManually": "We found that you have different networks\nselected in your wallet and on our site.\nChange network in your wallet manually or use the button below",
   "learnMore": "Подробнее",
   "tradeNow": "Торговать сейчас!",
-  "weLaunched": "Gravis Finance has launched Shibomania on the Polygon network!",
+  "weLaunched": "Volt AI has launched Shibomania on the Polygon network!",
   "hurryUp": "Shibomania Promo started at 9 am UTC, June 15, 2021, and will continue for 2 weeks, finishing at 9 am UTC, June 29, 2021.",
   "nftCards": "Hurry up and take part!",
   "findInIno": "Read more about Shibomania Terms and Conditions on our ",
@@ -383,7 +383,7 @@
       "overview": "Обзор",
       "tokens": "Токены",
       "pairs": "Пары",
-      "gswap": "Gswap"
+      "gswap": "VoltSwap"
     },
     "ino": {
       "ino": "INO",
@@ -391,7 +391,7 @@
       "angelRound": "Angel Round"
     },
     "NFTFarming": "Big Bang Фарминг",
-    "nftmarket": "Gmart NFT маркет",
+    "nftmarket": "VoltSmart NFT маркет",
     "asteroidMining": "Evervoid",
     "captainsIno": "Капитаны INO",
     "farming": "Фарминг",
@@ -400,7 +400,7 @@
     "audit": "Аудит"
   },
   "playNow": "Играть сейчас!",
-  "asteroidMiningDescription": "(A)Стероидный майнинг был создан как проект, управляемый сообществом, который позволит пользователям добавлять игровые механики, генерировать астероиды для фарминга и даже целые миры во Вселенной Gravis Finance.",
+  "asteroidMiningDescription": "(A)Стероидный майнинг был создан как проект, управляемый сообществом, который позволит пользователям добавлять игровые механики, генерировать астероиды для фарминга и даже целые миры во Вселенной Volt AI.",
   "watchVideo": "Смотреть видео",
   "buyLootBoxes": "Купить лутбоксы",
   "Revolutionary gamified yield farming": "Революционный геймифицированный фарминг",

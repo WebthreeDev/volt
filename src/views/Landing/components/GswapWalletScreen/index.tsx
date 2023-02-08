@@ -24,7 +24,7 @@ const WalletContent = (props: React.ComponentProps<typeof Box>) => {
   return (
     <Box ml={{ _: '1.5rem', md: '8rem' }} mr={{ _: '1rem', md: 0 }} {...props}>
       <Box fontSize={{ _: '2.8rem', md: '6.2rem' }} fontWeight={600}>
-        Gravis Finance
+        Volt AI
         <br />
         mobile wallet
       </Box>
@@ -116,7 +116,7 @@ export const GswapWalletScreen = () => {
                   display={{ _: 'none', md: 'flex' }}
                 >
                   <GswapIcon />
-                  <div>Gswap</div>
+                  <div>VoltSwap</div>
                 </Box>
                 <Box fontSize={{ _: '2.8rem', md: '4.4rem' }} fontWeight={600} lineHeight="110%" mt="2.5rem">
                   Tools for successful
@@ -135,7 +135,7 @@ export const GswapWalletScreen = () => {
                 </Box>
                 <Flex mt={{ _: '2.5rem', md: '4rem' }} gridGap="1.5rem">
                   <Button as="a" target="_blank" href={process.env.REACT_APP_EXCHANGE_URL}>
-                    Open Gswap
+                    Open VoltSwap
                   </Button>
                   <Button variant="dark" as="a" target="_blank" href={process.env.REACT_APP_GSWAP_DOCS_URL}>
                     <ExternalIcon mr="1rem" />
